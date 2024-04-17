@@ -1,0 +1,75 @@
+* {
+    text-align: center;
+    color: white;
+}
+
+.first,
+.second,
+.third,
+.fourth {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faq,
+footer {
+    background-color: black;
+    color: white;
+}
+
+.top-content {
+    background-image: url('/images/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+    padding: 20px 40px;
+    position: relative;
+    text-align: center;
+    background-size: contain;
+}
+.login-container{
+    background-image: url('/images/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+    padding: 100px 400px;
+    position: relative;
+    text-align: center;
+    background-size: contain;
+}
+.signin-conatiner {
+    background: linear-gradient(to right, #000000de, #0000009c);
+}
+
+#header1,
+main {
+    background: linear-gradient(to right, #0000009c, #0000009c);
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#btn1 {
+    background-color: red;
+}
+
+#lang-select {
+    background-color: black;
+}
+
+#footerpara {
+    text-align: left;
+}
+
+details {
+    cursor: pointer;
+}
+
+details>summary {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+#brand svg {
+    width: 180px;
+    height: auto;
+}
