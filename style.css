@@ -21,14 +21,14 @@ footer {
 }
 
 .top-content {
-    background-image: url('/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+    background-image: url('/images/website_small.png');
     padding: 20px 40px;
     position: relative;
     text-align: center;
     background-size: contain;
 }
 .login-container{
-    background-image: url('/images/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+    background-image: url('/images/website_small.png');
     padding: 100px 400px;
     position: relative;
     text-align: center;
