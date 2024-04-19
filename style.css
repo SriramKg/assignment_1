@@ -21,14 +21,14 @@ footer {
 }
 
 .top-content {
-    background-image: url('/images/website_small.png');
+    background-image: url('https://sriramkg.github.io/assignment_1/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_small.jpg');
     padding: 20px 40px;
     position: relative;
     text-align: center;
     background-size: contain;
 }
 .login-container{
-    background-image: url('/images/website_small.png');
+    background-image: url('https://sriramkg.github.io/assignment_1/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_small.jpg');
     padding: 100px 400px;
     position: relative;
     text-align: center;
